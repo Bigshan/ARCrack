@@ -29,7 +29,7 @@
                                     <constraint firstAttribute="height" constant="44" id="Xf0-Mc-alf"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
-                                <state key="normal" title="Show Big Image"/>
+                                <state key="normal" title="查看大图"/>
                                 <connections>
                                     <action selector="generateFinalImage:" destination="CHF-px-a6e" eventType="touchUpInside" id="xsQ-Yw-Ejq"/>
                                 </connections>
@@ -47,7 +47,7 @@
                                     <constraint firstAttribute="height" constant="44" id="FVZ-hI-vv3"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
-                                <state key="normal" title="Open ShutCut"/>
+                                <state key="normal" title="打开截图"/>
                                 <connections>
                                     <action selector="openImageButtonClicked:" destination="CHF-px-a6e" eventType="touchUpInside" id="F6i-kC-Rup"/>
                                 </connections>
@@ -221,7 +221,7 @@
                                     <constraint firstAttribute="height" constant="44" id="HUm-Tw-ara"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
-                                <state key="normal" title="Close"/>
+                                <state key="normal" title="返回上一页"/>
                                 <connections>
                                     <action selector="closeButtonClicked:" destination="kg4-co-2gL" eventType="touchUpInside" id="Smr-mW-HgV"/>
                                 </connections>
@@ -233,7 +233,7 @@
                                     <constraint firstAttribute="height" constant="44" id="6Tb-bZ-XGi"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
-                                <state key="normal" title="Save Image"/>
+                                <state key="normal" title="保存图片"/>
                                 <connections>
                                     <action selector="saveButtonClicked:" destination="kg4-co-2gL" eventType="touchUpInside" id="5O5-VM-iYX"/>
                                 </connections>
